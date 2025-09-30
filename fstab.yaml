@@ -1,5 +1,5 @@
 mountpoints:
-  /:
-    url: "https://author-p153659-e1620914.adobeaemcloud.com/bin/franklin.delivery/AEMXSC/wknd/main"
-    type: "markup"
-    suffix: ".html"
+   /:
+     url: "https://author-p165802-e1765367.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/varawat-wknd2-30092025-92528/main"
+     type: "markup"
+     suffix: ".html"
